@@ -1,1 +1,1 @@
-print("Amma")
+print("Amma and Appa")
